@@ -1,0 +1,48 @@
+.full-width{
+    width:100%;
+}
+
+.body{
+    background-color: darksalmon;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+form{
+    width: 300px;
+    margin-left: 10px;
+    
+    }
+
+    form input{
+        width: 100%;
+        padding: 7px;
+        border: none;
+        border: 1px solid;
+         border-radius: 10px;
+         outline: none;
+        }
+
+    .login{
+        font-family: fantasy;
+        text-align: center;
+        background-color: cyan;
+    }
+
+    .text1{
+        text-align: center;
+       font-family: fantasy;
+    }
+    
+    .xyz{
+        position:relative;
+       margin-left: 120px;
+       margin-top: 30px;
+
+    }
+
+    
+    .link{
+        text-align: center; 
+    }
+    
