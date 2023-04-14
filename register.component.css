@@ -1,0 +1,38 @@
+.body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:blanchedalmond;
+        
+        }
+        .full-width{
+            width:100%;
+        }
+        
+        .register{
+         font-family:fantasy;
+         border-radius: 30px;
+         position: relative;
+         margin-top: 60px;
+         margin-left: 40px;
+        }
+
+
+        .n1{
+            margin-left: 70px;  
+        }
+        
+        form{
+        width: 213px;
+        margin-left: 90px;
+        margin-top: 20px;
+        
+        }
+
+       .form1{
+            background-color:aquamarine;
+        }
+
+       .link{
+        margin-left: 80px; 
+       }
+    
+       
